@@ -1,4 +1,6 @@
-echo fix tmux term color not same as before.
+echo config tmux guide: https://github.com/gpakosz/.tmux
 echo
-echo cp .tmux.conf ~/.tmux.conf
+echo uncomment tmux_conf_theme_left_separator_XXX to enable powerline
 echo
+echo DO NOT forget export EDITOR=vim
+echo 
